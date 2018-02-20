@@ -8,9 +8,9 @@ g = 14
 h = 16
 i = 18
 k = 20
-a + b
-k / b
-a * d
-k - a
-g % c
-a in b
+print (a + b)
+print (k / b)
+print (a * d)
+print (k - a)
+print (g % c)
+print (a in b)
