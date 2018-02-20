@@ -8,6 +8,6 @@ g = 14
 i = 16
 j = 18
 k = 20
-a + b
-a * b
-a / b
+print (a + b)
+print (a * b)
+print (a / b)
